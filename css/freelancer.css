@@ -539,5 +539,15 @@ div#maincontent {
 .portfolio-item__thumbnail img {
   height: 100%;
 }
+.modal-content__imgs {
+  height: 450px;
+}
+.modal-content__imgs img {
+  max-width: 100%;
+}
+
 @media (max-width: 767px) {
+  .portfolio-modal .modal-content {
+    margin: 15px;
+  }
 }
