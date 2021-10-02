@@ -590,11 +590,10 @@ div#maincontent {
   height: 800px;
 }
 .portfolio1__imgs img {
-  height: 800px;
-}
+  min-height: 500px;}
 .portfolio-imgs-mapp .modal-content__imgs,
 .portfolio-imgs-mapp .modal-content__imgs img {
-  height: 565px;
+  height: auto;
 }
 
 .about {
